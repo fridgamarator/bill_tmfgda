@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>game</title>
+    <%= stylesheet_link_tag "/stylesheets/application.css" %>
+    <%= javascript_include_tag "/javascripts/jquery.js" %>
+    <%= javascript_include_tag "/javascripts/crafty.js" %>
+    <%= javascript_include_tag "/javascripts/create_mocks_module.js" %>
+    <%= javascript_include_tag "/javascripts/tiledmapbuilder.js" %>
+    
+    <%= javascript_include_tag "/javascripts/world_one_source.js" %>
+    <%= javascript_include_tag "/javascripts/loading_menu_scenes.js" %>
+    <%= javascript_include_tag "/javascripts/player_components.js" %>
+    <%= javascript_include_tag "/javascripts/enemies.js" %>
+    <%= javascript_include_tag "/javascripts/player.js" %>
+    <%= javascript_include_tag "/javascripts/world_one.js" %>
+    <%= javascript_include_tag "/javascripts/game.js" %>
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+</html>

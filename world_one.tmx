@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="bugtilesblue" tilewidth="16" tileheight="16" spacing="1">
+  <image source="../../gameart/arachne/bugtilesblue.png" width="169" height="169"/>
+ </tileset>
+ <layer name="ground" width="200" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1T1qw0AQBlA1wYV7x41NcFK5jXFlcOokt0juf4YMRIUQDoj9YdfkPfhgZxC7swihzQAAAAAAAAAAAAAAAPfjIXJqPQR06DWyjXy3HgQ6sZqsd5GXwfcBt3xF9oPvA27x/+C/ehpzHPM4Rj+vX3qv1jPU6Jd8Nneev/Y4RJ6H3//DdJ1Sl9hDnV4veT89zJl7j5pnzXvnyDXyNlun1CX2UKfXS95PD3Pm3qPmWfPee+Qj8hm5TNYpdYk91On1kvfTw5y596h51rwHAAAAAAAAAAAAAAA9WLceADr2A7EuoC8=
+  </data>
+ </layer>
+</map>
