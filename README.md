@@ -1,5 +1,5 @@
 # Bill
-### The mother fucking goddamn astronaught
+### TMFGDA
 #### open source game using [crafty.js](http://craftyjs.com/)
 * not much to the game, just movement and shooting
 
